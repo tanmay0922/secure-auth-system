@@ -109,4 +109,4 @@ A secure user authentication system built with Node.js, Express, and MongoDB.
 
 ## Contact
 
-Your Name - [upadhyaytanmay23@gmail.com](mailto:upadhyaytanmay23@gmail.com)
+E-mail - [upadhyaytanmay23@gmail.com](mailto:upadhyaytanmay23@gmail.com)
